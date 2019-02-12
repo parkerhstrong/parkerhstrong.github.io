@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #343a40;
 }
 
 [tabindex="-1"]:focus {
@@ -162,7 +162,7 @@ sup {
 a {
   color: #007bff;
   text-decoration: none;
-  background-color: transparent;
+  background-color: #343a40;
   -webkit-text-decoration-skip: objects;
 }
 

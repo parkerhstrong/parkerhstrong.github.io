@@ -4213,12 +4213,10 @@ a:hover, a:active {
   .contact100-form-title {
     display: block;
     width: 100%;
-    font-family: Raleway-Black;
-    font-size: 30px;
     color: #333333;
     line-height: 1.2;
     text-transform: uppercase;
-    text-align: left;
+    text-align: center;
     padding-bottom: 32px;
   }
   
@@ -4239,7 +4237,6 @@ a:hover, a:active {
   }
   
   .label-input100 {
-    font-family: Raleway-SemiBold;
     font-size: 14px;
     color: #555555;
     line-height: 1.5;
@@ -4251,7 +4248,6 @@ a:hover, a:active {
     background: #f2f2f2;
     border-radius: 2px;
   
-    font-family: Raleway-SemiBold;
     font-size: 20px;
     color: #686868;
     line-height: 1.2;
@@ -4330,7 +4326,6 @@ a:hover, a:active {
     min-width: 150px;
     height: 62px;
   
-    font-family: Raleway-Bold;
     font-size: 16px;
     color: #fff;
     line-height: 1.2;
@@ -4388,7 +4383,6 @@ a:hover, a:active {
     right: 10px;
     pointer-events: none;
   
-    font-family: Raleway-SemiBold;
     color: #c80000;
     font-size: 13px;
     line-height: 1.4;
@@ -4438,7 +4432,6 @@ a:hover, a:active {
   .contact100-more {
     display: block;
     max-width: 960px;
-    font-family: Raleway-SemiBold;
     font-size: 20px;
     color: #fff;
     line-height: 1.4;

@@ -42,7 +42,7 @@
                                 </div><!-- .content-area -->
                             </div><!-- .col -->
                                     <div class="entry-content">
-                                        <p>Parker Strong is a Northeast Ohio based sound designer and engineer</p>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus sem in tincidunt. Nullam luctus semper ipsum posuere blandit. Suspendisse eu mollis risus. Morbi eu dictum quam. Etiam sollicitudin volutpat ante, vitae gravida nisi finibus et. Maecenas tincidunt, mi sed finibus sagittis, quam nisi aliquam lorem, ac elementum nunc elit ac elit. Cras congue nisl non turpis euismod, eget commodo augue bibendum. Vestibulum venenatis vestibulum gravida. </p>
                                     
                                         
                                         
@@ -224,6 +224,36 @@
             </div><!-- .col -->
         </div><!-- .row -->
 
+
+        <div align="center">
+            <h2>Contact</h2></div> 
+
+
+
+
+
+          
+            <form id="contactform" method="POST">
+                <input type="text" name="name" placeholder="Your name"><br>
+                <input type="email" name="_replyto" placeholder="Your email"><br>
+                <input type="hidden" name="_subject" value="Website contact" /><br>
+                <textarea name="message" placeholder="Your message"></textarea><br>
+                <input type="text" name="_gotcha" style="display:none" />
+                <input type="submit" value="Send">
+            </form>
+            <script>
+                var contactform =  document.getElementById('contactform');
+                contactform.setAttribute('action', '//formspree.io/' + 'your' + '@' + 'email' + '.' + 'com');
+            </script>
+
+
+
+
+
+
+
+
+        
         
     </div><!-- .container -->
 </div><!-- .outer-container -->

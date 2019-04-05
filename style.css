@@ -4140,12 +4140,12 @@ a:hover, a:active {
   
   input::-webkit-input-placeholder { color: #adadad;}
   input:-moz-placeholder { color: #adadad;}
-  input::-moz-placeholder { color: #adadad;}
-  input:-ms-input-placeholder { color: #adadad;}
+  input::-moz-placeholder { color: #6f6f6f;}
+  input:-ms-input-placeholder { color: #6f6f6f;}
   
   textarea::-webkit-input-placeholder { color: #adadad;}
   textarea:-moz-placeholder { color: #adadad;}
-  textarea::-moz-placeholder { color: #adadad;}
+  textarea::-moz-placeholder { color: #6f6f6f;}
   textarea:-ms-input-placeholder { color: #adadad;}
   
   /*---------------------------------------------*/

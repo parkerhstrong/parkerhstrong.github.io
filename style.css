@@ -3,8 +3,8 @@
 body {
     color: #fff;
     font-family: 'Work Sans', sans-serif;
-    background: rgb(37, 37, 37);
-    background-color: rgb(37, 37, 37);
+    background: #000;
+    background-color: #000;
     background-repeat: no-repeat;
 }
 
@@ -4448,4 +4448,8 @@ a:hover, a:active {
   
   
   
-  
+hr {
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+}

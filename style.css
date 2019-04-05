@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Work+Sans:300,400,500,600,700');
 
 body {
-    color: #191919;
+    color: #fff;
     font-family: 'Work Sans', sans-serif;
     background: rgb(37, 37, 37);
     background-color: rgb(37, 37, 37);
@@ -48,8 +48,8 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 @media screen and (min-width: 992px) {
     .outer-container {
-        padding-left: ;
-        background-color: #000;
+        
+        
     }
 }
 
@@ -472,7 +472,7 @@ a:hover, a:active {
 }
 
 .breadcrumbs li a {
-    color: #191919;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -498,7 +498,7 @@ a:hover, a:active {
     margin-top: 20px;
     font-family: 'Poppins', sans-serif;
     line-height: 1.6;
-    color: #595959;
+    color: #fff;
 }
 
 /*
@@ -671,7 +671,7 @@ a:hover, a:active {
 }
 
 .blog-page .blog-content .entry-content h3 a {
-    color: #191919;
+    color: #fff;
     font-size: 1.125rem;
     font-weight: 500;
 }
@@ -837,7 +837,7 @@ a:hover, a:active {
 .single-post .content-area .entry-content p,
 .single-page .content-area .entry-content p {
     margin-bottom: 0.75rem;
-    color: #595959;
+    color: #fff;
 }
 
 /*
@@ -4220,7 +4220,7 @@ a:hover, a:active {
   .contact100-form-title {
     display: block;
     width: 100%;
-    color: #333333;
+    color: #fff;
     line-height: 1.2;
     text-transform: uppercase;
     text-align: center;
@@ -4445,7 +4445,6 @@ a:hover, a:active {
     text-align: center;
     padding: 40px 0 10px 0;
   }
-  
   
   
   

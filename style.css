@@ -4330,11 +4330,7 @@ a:hover, a:active {
   }
   
   .contact100-form-btn {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: flex;
+   
     justify-content: center;
     align-items: center;
     padding: 0 20px;
@@ -4345,10 +4341,13 @@ a:hover, a:active {
     color: #fff;
     line-height: 1.2;
     text-transform: uppercase;
+    display: inline-block;
+    margin: 5px; 
+    
   }
   
   .wrap-contact100-form-btn:hover .contact100-form-bgbtn {
-    left: 0;
+    
   }
   
   

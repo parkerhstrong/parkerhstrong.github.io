@@ -36,12 +36,11 @@ a:hover, a:focus, a:active {
 }
 
 a:focus {
-    outline: thin dotted;
+   
 }
 
 a:hover, a:active {
-    outline: 0;
-    list-style: none;
+    
 }
 
 /*--------------------------------------------------------------
@@ -4459,4 +4458,8 @@ hr {
     color: #fff;
     background-color: #fff;
     border-color: #fff;
+}
+.paperwork {
+    float:left;
+    padding: 15px 40px 0 0;
 }
